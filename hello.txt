@@ -24,3 +24,4 @@ test ssh no password method!
 test ssh no password method!
 test ssh no password method!
 test ssh no password method!
+test https needs password method
